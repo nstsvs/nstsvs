@@ -1,9 +1,9 @@
-## Привет! Меня зовут Анастасия.
+## Hi, my name is Anastasia.
 
-- В настоящее время я работаю над пет-проектами на React.
-- Также читаю книги "Выразительный JavaScript" и "Грокаем алгоритмы", прохожу тренажеры на Хекслете и FreeCodeCamp, стараюсь решать задачи на Codewars.
+- I'm currently working on pet projects in React.
+- I'm also reading the books ‘Expressive JavaScript’ and ‘Grokai Algorithms’, going through simulators on Hexlet and FreeCodeCamp, trying to solve problems on Codewars.
 
-📫 Как со мной связаться: **anveysa@gmail.com или https://t.me/nstsvs**
+📫 How to contact me: **anveysa@gmail.com or https://t.me/nstsvs**
 
 <h3 align="left">Мой аккаунт на LinkedIn</h3>
 <p align="left">
