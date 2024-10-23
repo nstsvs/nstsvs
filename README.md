@@ -1,6 +1,6 @@
 ## Hi, my name is Anastasia.
 
-- I'm currently working on pet projects in React.
+- I'm currently working on pet projects with React, Angular and Vue.
 - I'm also reading the books ‘Eloquent JavaScript’ and ‘Grokking Algorithms’, trying to solve tasks on Codewars.
 
 📫 How to contact me: **anveysa@gmail.com or https://t.me/nstsvs**
