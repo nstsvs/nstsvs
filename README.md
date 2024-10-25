@@ -15,6 +15,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nstsvs&show_icons=true&locale=en&layout=compact" alt="nstsvs" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nstsvs&" alt="nstsvs" /></p>
-
 ![Codewars](https://github.r2v.ch/codewars?user=nstsvs&stroke=%23BB432C)
