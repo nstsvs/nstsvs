@@ -1,7 +1,8 @@
 ## Hi, my name is Anastasia.
 
 - I'm currently working on pet projects with React.
-- I'm also reading the books ‘Eloquent JavaScript’ and ‘Grokking Algorithms’, trying to solve tasks on Codewars.
+- Reading the books ‘Eloquent JavaScript’ and ‘Grokking Algorithms’.
+- Solving tasks on Codewars.
 
 📫 How to contact me: **anveysa@gmail.com or https://t.me/nstsvs**
 
