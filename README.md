@@ -26,6 +26,5 @@
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 </div>
 <br />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nstsvs&show_icons=true&locale=en&layout=compact" alt="nstsvs" /></p>
 
-![Codewars](https://github.r2v.ch/codewars?user=nstsvs&stroke=%23BB432C)
+![Codewars](https://www.codewars.com/users/nstsvs/badges/small)
